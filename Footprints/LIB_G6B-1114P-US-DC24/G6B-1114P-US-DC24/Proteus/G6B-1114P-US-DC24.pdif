@@ -1,0 +1,119 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "G6B-1114P-US-DC24"
+   (description "Relay; 5 A; 24 VDC; Electro-Mechanical; 3000 VAC; 1 Form A")
+   (family "CON")
+   (package "G6B1114PUSDC24")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "10mm")
+   (attribute "Mouser Part Number" "653-G6B-1114P-DC24")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G6B-1114P-US-DC24?qs=pWf36BUtxBj2o31P%2FlZVCQ%3D%3D")
+   (attribute "Manufacturer_Name" "Omron Electronics")
+   (attribute "Manufacturer_Part_Number" "G6B-1114P-US-DC24")
+   (gate
+    (symbol "G6B-1114P-US-DC24")
+    (pin "COIL_-_(+)" 1 PS)
+    (pin "COM" 3 PS)
+    (pin "N.O." 4 PS)
+    (pin "COIL_+_(-)" 6 PS)
+   )
+  )
+  (symbol "G6B-1114P-US-DC24"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "G6B1114PUSDC24"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.11 -1.4)
+      (pt 18.89 -1.4)
+      (pt 18.89 8.6)
+      (pt -1.11 8.6)
+      (pt -1.11 -1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.11 -1.4)
+      (pt 18.89 -1.4)
+      (pt 18.89 8.6)
+      (pt -1.11 8.6)
+      (pt -1.11 -1.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.71 -2.4)
+      (pt 19.89 -2.4)
+      (pt 19.89 9.6)
+      (pt -2.71 9.6)
+      (pt -2.71 -2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.3)
+     (path
+      (closed true)
+      (pt -1.61 -0.4)
+      (arc (pt -1.610 -0.400) (pt -1.710 -0.350) (pt -1.610 -0.450) (start 180.0) (sweep .0))
+      (pt -1.71 -0.4)
+      (arc (pt -1.710 -0.400) (pt -1.710 -0.350) (pt -1.610 -0.450) (start 180.0) (sweep 180.0))
+      (pt -1.61 -0.4))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 3 (pt 10.160 0.000) (padstack 0))
+   (leg 4 (pt 17.780 0.000) (padstack 0))
+   (leg 6 (pt 0.000 7.200) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (model "G6B-1114P-US-DC24.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

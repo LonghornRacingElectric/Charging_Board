@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'G6B_1114P_US_DC24'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Omron Electronics", "G6B-1114P-US-DC24" (!) = "", "G6B1114PUSDC24", "Other", "653-G6B-1114P-DC24", "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G6B-1114P-US-DC24?qs=pWf36BUtxBj2o31P%2FlZVCQ%3D%3D", "Relay; 5 A; 24 VDC; Electro-Mechanical; 3000 VAC; 1 Form A", "", "10 mm"
+END_PART
+
+END.

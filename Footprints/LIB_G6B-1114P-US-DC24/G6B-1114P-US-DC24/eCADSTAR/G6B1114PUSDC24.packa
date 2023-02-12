@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "G6B-1114P-US-DC24"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-15-10:45:25)
+    (mountForm default
+        (footprintRef "G6B1114PUSDC24")
+        (spec "System")
+    )
+)
