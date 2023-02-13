@@ -1,0 +1,16 @@
+.IPD650P06NMATMA1 :1 ;MOSFET TRENCH 40<-<100V
+BTS3035TFATMA1
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IPD650P06NMATMA1
+~!Mouser Part Number (726-IPD650P06NMATMA1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IPD650P06NMATMA1?qs=unwgFEO1A6vz3T2Vr47kIg%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IPD650P06NMATMA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/Infineon-IPD650P06NM-DS-v02_00-EN.pdf?fileId=5546d46269e1c019016a03e2db2100b1)
+~!Height (2mm)
+~!3D_Model (IPD650P06NMATMA1)
+IPD650P06NMATMA1
+1.1!U 2.1!U 3.1!U 

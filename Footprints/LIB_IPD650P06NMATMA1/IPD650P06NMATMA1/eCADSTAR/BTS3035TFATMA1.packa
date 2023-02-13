@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IPD650P06NMATMA1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-30-19:47:11)
+    (mountForm default
+        (footprintRef "BTS3035TFATMA1")
+        (spec "System")
+    )
+)

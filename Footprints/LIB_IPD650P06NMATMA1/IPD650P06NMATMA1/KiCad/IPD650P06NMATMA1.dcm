@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPD650P06NMATMA1
+D MOSFET TRENCH 40<-<100V
+K
+F https://www.infineon.com/dgdl/Infineon-IPD650P06NM-DS-v02_00-EN.pdf?fileId=5546d46269e1c019016a03e2db2100b1
+$ENDCMP
+#
+#End Doc Library

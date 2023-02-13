@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BTS3035TFATMA1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BTS3035TFATMA1")
+        (spec "default")
+    )
+)
