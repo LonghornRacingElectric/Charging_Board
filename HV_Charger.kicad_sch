@@ -1589,5 +1589,8 @@
     (path "/2c366dc5-d43d-4e8d-b48c-960380cef255"
       (reference "R6") (unit 1) (value "15K") (footprint "SamacSys_Parts:RESC11050X120N")
     )
+    (path "/9ed178cb-b78e-4f56-91da-1bcddb0b64fb/6ab50612-f37d-42a8-bc43-155caea12bdc"
+      (reference "R7") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
   )
 )
