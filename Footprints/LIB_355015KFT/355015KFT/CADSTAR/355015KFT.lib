@@ -1,0 +1,16 @@
+.355015KFT :1 ;Thick Film Resistors - SMD 3550 15K 1%
+RESC11050X120N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 355015KFT
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (355015KFT)
+~!Link Datasheet (-)
+~!Height (1.2mm)
+~!3D_Model (355015KFT)
+"355015KFT"
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=355015KFT
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-02-20 03:36:14
+Downloaded=2023-03-05 16:54:03
+3D=Y

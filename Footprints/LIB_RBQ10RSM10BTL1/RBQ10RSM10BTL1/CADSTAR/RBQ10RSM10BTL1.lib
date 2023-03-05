@@ -1,0 +1,16 @@
+.RBQ10RSM10BTL1 :1 ;ROHM - RBQ10RSM10BTL1 - Schottky Rectifier, 100 V, 10 A, Single, TO-277A, 3 Pins, 700 mV
+RBQ10RSM10BTL1
+*STM D
+*NGS
+*PLB 1="ANODE_1" 2="ANODE_2" 3="CATHODE"
+*MXP 3
+*DFN RBQ10RSM10BTL1
+~!Mouser Part Number (755-RBQ10RSM10BTL1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RBQ10RSM10BTL1?qs=By6Nw2ByBD32XqLLiYWNKA%3D%3D)
+~!Manufacturer_Name (ROHM Semiconductor)
+~!Manufacturer_Part_Number (RBQ10RSM10BTL1)
+~!Link Datasheet (https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbq10rsm10btl1-e.pdf)
+~!Height (1.2mm)
+~!3D_Model (RBQ10RSM10BTL1)
+RBQ10RSM10BTL1
+1.1!U 2.1!U 3.1!U 

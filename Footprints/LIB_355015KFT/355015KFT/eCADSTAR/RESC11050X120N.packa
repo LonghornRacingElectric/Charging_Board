@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "355015KFT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-30-12:01:46)
+    (mountForm default
+        (footprintRef "RESC11050X120N")
+        (spec "System")
+    )
+)

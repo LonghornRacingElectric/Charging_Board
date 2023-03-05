@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RBQ10RSM10BTL1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ROHM Semiconductor", "RBQ10RSM10BTL1" (!) = "", "RBQ10RSM10BTL1", "Other", "755-RBQ10RSM10BTL1", "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RBQ10RSM10BTL1?qs=By6Nw2ByBD32XqLLiYWNKA%3D%3D", "ROHM - RBQ10RSM10BTL1 - Schottky Rectifier, 100 V, 10 A, Single, TO-277A, 3 Pins, 700 mV", "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbq10rsm10btl1-e.pdf", "1.2 mm"
+END_PART
+
+END.

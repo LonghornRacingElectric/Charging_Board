@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model RBQ10RSM10BTL1
+#/17126467/989410/2.49/3/3/Schottky Diode
+DEF RBQ10RSM10BTL1 D 0 30 Y Y 1 F N
+F0 "D" 1250 300 50 H V L CNN
+F1 "RBQ10RSM10BTL1" 1250 200 50 H V L CNN
+F2 "RBQ10RSM10BTL1" 1250 100 50 H I L CNN
+F3 "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbq10rsm10btl1-e.pdf" 1250 0 50 H I L CNN
+F4 "ROHM - RBQ10RSM10BTL1 - Schottky Rectifier, 100 V, 10 A, Single, TO-277A, 3 Pins, 700 mV" 1250 -100 50 H I L CNN "Description"
+F5 "1.2" 1250 -200 50 H I L CNN "Height"
+F6 "755-RBQ10RSM10BTL1" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RBQ10RSM10BTL1?qs=By6Nw2ByBD32XqLLiYWNKA%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ROHM Semiconductor" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "RBQ10RSM10BTL1" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ANODE_1 1 0 -100 200 R 50 50 0 0 P
+X ANODE_2 2 0 0 200 R 50 50 0 0 P
+X CATHODE 3 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

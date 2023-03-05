@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_17126467"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-14-14:24:12)
+    (utime 2023-01-14-14:24:12)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "RBQ10RSM10BTL1")
+)
+
+
+(pinAssign "ECS_17126467"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-14-14:24:12)
+    (utime 2023-01-14-14:24:12)
+    (interface
+        (port "1" (symbPinId 1) (portName "ANODE_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "ANODE_2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CATHODE") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_17126467")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RBQ10RSM10BTL1")
+)
+
+
+(part "RBQ10RSM10BTL1"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-01-14-14:24:12)
+    (utime 2023-01-14-14:24:12)
+    (packageRef "RBQ10RSM10BTL1")
+    (pinAssignRef "ECS_17126467")
+    (interface
+        (port "1" (symbPinId 1) (portName "ANODE_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "ANODE_2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "CATHODE") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "ROHM - RBQ10RSM10BTL1 - Schottky Rectifier, 100 V, 10 A, Single, TO-277A, 3 Pins, 700 mV")
+    (property "Mouser_Part_Number" "755-RBQ10RSM10BTL1")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RBQ10RSM10BTL1?qs=By6Nw2ByBD32XqLLiYWNKA%3D%3D")
+    (property "Manufacturer_Name" "ROHM Semiconductor")
+    (property "Manufacturer_Part_Number" "RBQ10RSM10BTL1")
+    (property "Datasheet_Link" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/schottky_barrier/rbq10rsm10btl1-e.pdf")
+    (property "compAreaTopHeight" 1.2)
+)
+
+
